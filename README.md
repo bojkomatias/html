@@ -1,2 +1,7 @@
 # html_basico
-Práctica Conceptos Básicos HTML
+Curriculum Estático 
+
+Materia: Programacion III
+
+Alumno: Matias Bojko
+
